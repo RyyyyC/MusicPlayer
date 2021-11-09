@@ -1,0 +1,91 @@
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\kamil\OneDrive\Pulpit\OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+G:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+G:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+G:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+G:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+E:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+E:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+E:\.OPTINAV\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+E:\.OPTINAV\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Optinav\Desktop\Kamil Zieliński Praktyki\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.SuggestedBindingRedirects.cache
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+G:\.OPTINAV\.PRAKTYKI\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
